@@ -1,0 +1,88 @@
+.service {
+    background-color: #f9f9f9;
+    margin-top: 300px;
+}
+.pd-y {
+    padding: 120px 0;
+}
+.container {
+    width: 80%;
+    margin: auto;
+}
+.service-item {
+    width: 50%;
+    float: left;
+}
+.service-item .section-header {
+    text-align: left;
+}
+.section-header {
+    text-align: center;
+}
+.section-header .section-title {
+    font-size: 35px;
+    text-transform: capitalize;
+    margin-bottom: 9px;
+    margin-top: 6px;
+}
+.service-item .section-header .line {
+    margin: 0 0 45px 0;
+}
+.section-header .line {
+    display: block;
+    width: 62px;
+    height: 4px;
+    background-color: royalblue;
+    margin: 0 auto 70px auto;
+}
+.service-item-desc {
+    padding-right: 20px;
+    color: #999;
+    line-height: 1.4;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.service-list {
+    list-style: none;
+}
+.service-list li {
+    margin-bottom: 13px;
+    color: #999;
+}
+.service-list li i {
+    border: 1px solid #6195ff;
+    color: #6195ff;
+    padding: 3px;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+}
+.service-item {
+    width: 50%;
+    float: left;
+}
+.klo {
+    width: 480px;
+    height: 400px;
+}
+.service-bullets {
+    list-style: none;
+    text-align: center;
+}
+.service-bullets li.active {
+    background-color: #6195ff;
+}
+.service-bullets li {
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    background-color: #a8a8a8;
+    margin: 10px 5px;
+    border-radius: 50%;
+}
+.clear {
+    clear: both;
+}
+.clear {
+    clear: both;
+}
